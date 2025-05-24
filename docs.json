@@ -56,8 +56,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/makerspace-light.svg",
+    "dark": "/logo/makerspace-dark.svg"
   },
   "navbar": {
     "links": [
